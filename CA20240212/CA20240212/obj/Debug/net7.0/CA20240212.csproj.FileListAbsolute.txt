@@ -1,0 +1,14 @@
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\bin\Debug\net7.0\CA20240212.exe
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\bin\Debug\net7.0\CA20240212.deps.json
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\bin\Debug\net7.0\CA20240212.runtimeconfig.json
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\bin\Debug\net7.0\CA20240212.dll
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\bin\Debug\net7.0\CA20240212.pdb
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.AssemblyInfoInputs.cache
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.AssemblyInfo.cs
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.csproj.CoreCompileInputs.cache
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.dll
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\refint\CA20240212.dll
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.pdb
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\CA20240212.genruntimeconfig.cache
+C:\Users\C20OszlikT\source\repos\CA20240212\CA20240212\obj\Debug\net7.0\ref\CA20240212.dll
